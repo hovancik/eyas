@@ -1,2 +1,6 @@
 # Ignore Bower Assets
 bower_components
+
+# Ignore Node Assets
+node_modules
+
